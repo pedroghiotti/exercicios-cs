@@ -1,0 +1,13 @@
+C:\Users\Arq\source\repos\Exercício_1\bin\Debug\netcoreapp3.1\Exercício_1.exe
+C:\Users\Arq\source\repos\Exercício_1\bin\Debug\netcoreapp3.1\Exercício_1.deps.json
+C:\Users\Arq\source\repos\Exercício_1\bin\Debug\netcoreapp3.1\Exercício_1.runtimeconfig.json
+C:\Users\Arq\source\repos\Exercício_1\bin\Debug\netcoreapp3.1\Exercício_1.runtimeconfig.dev.json
+C:\Users\Arq\source\repos\Exercício_1\bin\Debug\netcoreapp3.1\Exercício_1.dll
+C:\Users\Arq\source\repos\Exercício_1\bin\Debug\netcoreapp3.1\Exercício_1.pdb
+C:\Users\Arq\source\repos\Exercício_1\obj\Debug\netcoreapp3.1\Exercício_1.csprojAssemblyReference.cache
+C:\Users\Arq\source\repos\Exercício_1\obj\Debug\netcoreapp3.1\Exercício_1.AssemblyInfoInputs.cache
+C:\Users\Arq\source\repos\Exercício_1\obj\Debug\netcoreapp3.1\Exercício_1.AssemblyInfo.cs
+C:\Users\Arq\source\repos\Exercício_1\obj\Debug\netcoreapp3.1\Exercício_1.csproj.CoreCompileInputs.cache
+C:\Users\Arq\source\repos\Exercício_1\obj\Debug\netcoreapp3.1\Exercício_1.dll
+C:\Users\Arq\source\repos\Exercício_1\obj\Debug\netcoreapp3.1\Exercício_1.pdb
+C:\Users\Arq\source\repos\Exercício_1\obj\Debug\netcoreapp3.1\Exercício_1.genruntimeconfig.cache
