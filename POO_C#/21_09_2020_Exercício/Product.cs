@@ -6,9 +6,9 @@ namespace Exercício_Constructor
 {
     class Product
     {
-        public string _name; // Nome do produto.
-        private double _price; // Preço do produto.
-        private int _amountInStock; // Descreve a quantidade do produto guardada em estoque.
+        public string _name { get; private set; } // Nome do produto.
+        public double _price { get; private set; } // Preço do produto.
+        public int _amountInStock { get; private set; } // Descreve a quantidade do produto guardada em estoque.
 
         public Product(string name, double price, int amountInStock) // Construtor.
         {
