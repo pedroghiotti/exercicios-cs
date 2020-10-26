@@ -1,0 +1,13 @@
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.exe
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.deps.json
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.runtimeconfig.json
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.runtimeconfig.dev.json
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.dll
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.pdb
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.csprojAssemblyReference.cache
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.AssemblyInfoInputs.cache
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.AssemblyInfo.cs
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.csproj.CoreCompileInputs.cache
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.dll
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.pdb
+C:\Users\Arq\Desktop\Pedro\19-10-2020_Exercício_Média_Preços\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Média_Preços.genruntimeconfig.cache

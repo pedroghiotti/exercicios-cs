@@ -1,0 +1,13 @@
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.exe
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.deps.json
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.runtimeconfig.json
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.runtimeconfig.dev.json
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.dll
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\bin\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.pdb
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.csprojAssemblyReference.cache
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.AssemblyInfoInputs.cache
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.AssemblyInfo.cs
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.csproj.CoreCompileInputs.cache
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.dll
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.pdb
+G:\Git_Repo\repo_pessoal\POO_C#\19-10-2020_Exercício_Hotel\obj\Debug\netcoreapp3.1\19-10-2020_Exercício_Hotel.genruntimeconfig.cache
