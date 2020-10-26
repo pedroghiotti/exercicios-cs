@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Git_Repo\\repo_pessoal\\POO_C#\\21_09_2020_Exercício\\Exercício_Constructor.csproj",
-      "projectName": "Exercício_Constructor",
-      "projectPath": "G:\\Git_Repo\\repo_pessoal\\POO_C#\\21_09_2020_Exercício\\Exercício_Constructor.csproj",
+      "projectUniqueName": "C:\\Users\\Arq\\Desktop\\Pedro\\05-10-2020_Exercício_Conta_Bancária\\05-10-2020_Exercício_Conta_Bancária.csproj",
+      "projectName": "05-10-2020_Exercício_Conta_Bancária",
+      "projectPath": "C:\\Users\\Arq\\Desktop\\Pedro\\05-10-2020_Exercício_Conta_Bancária\\05-10-2020_Exercício_Conta_Bancária.csproj",
       "packagesPath": "C:\\Users\\Arq\\.nuget\\packages\\",
-      "outputPath": "G:\\Git_Repo\\repo_pessoal\\POO_C#\\21_09_2020_Exercício\\obj\\",
+      "outputPath": "C:\\Users\\Arq\\Desktop\\Pedro\\05-10-2020_Exercício_Conta_Bancária\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arq\\AppData\\Roaming\\NuGet\\NuGet.Config",

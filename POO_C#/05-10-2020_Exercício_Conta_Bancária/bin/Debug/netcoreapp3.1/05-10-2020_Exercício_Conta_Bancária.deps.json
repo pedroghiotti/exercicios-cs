@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "05-10-2020_Exercício_Conta_Bancária/1.0.0": {
+        "runtime": {
+          "05-10-2020_Exercício_Conta_Bancária.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05-10-2020_Exercício_Conta_Bancária/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

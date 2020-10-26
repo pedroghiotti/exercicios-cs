@@ -1,0 +1,13 @@
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\bin\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.exe
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\bin\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.deps.json
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\bin\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.runtimeconfig.json
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\bin\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.runtimeconfig.dev.json
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\bin\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.dll
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\bin\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.pdb
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\obj\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.csprojAssemblyReference.cache
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\obj\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.AssemblyInfoInputs.cache
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\obj\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.AssemblyInfo.cs
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\obj\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.csproj.CoreCompileInputs.cache
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\obj\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.dll
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\obj\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.pdb
+C:\Users\Arq\Desktop\Pedro\05-10-2020_Exercício_Conta_Bancária\obj\Debug\netcoreapp3.1\05-10-2020_Exercício_Conta_Bancária.genruntimeconfig.cache
